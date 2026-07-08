@@ -55,7 +55,7 @@ Visualizations: matplotlib, seaborn (for distribution and correlation heatmaps)
 1. Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/advanced-eda-feature-engineering.git
+git clone https://github.com/aaryan1005/Week-1-Project
 cd advanced-eda-feature-engineering
 2. Install required dependencies:
 
